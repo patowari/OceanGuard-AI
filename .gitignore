@@ -1,0 +1,36 @@
+# Python & Virtual Env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+.python-version
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Dataset - Raw and Processed
+# We ignore the dataset folders to keep the repo light.
+# Users should download SSDD data separately.
+SSDD_OBB/
+train/
+test/
+valid/
+data.yaml
+README.dataset.txt
+README.roboflow.txt
+
+# YOLOv8 Training Outputs
+# Contains large model weights and logs
+runs/
+*.pt
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
