@@ -780,7 +780,7 @@ Users of this system are expected to:
 **Md Zubayer Patowari**  
 Independent Researcher  
 📧 mdzubayerhossainpatowari@gmail.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/zubayer-patowari)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/patowari)  
 💻 [GitHub Portfolio](https://github.com/patowari)  
 
 ### 13.2 Contributing
