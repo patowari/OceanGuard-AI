@@ -869,7 +869,7 @@ python benchmark.py --weights best.pt --imgsz 640 --batch 1
 
 ---
 
-**Last Updated:** February 2024  
+**Last Updated:** February 2026   
 **Version:** 1.0.0  
 **Status:** Active Development  
 
