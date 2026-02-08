@@ -1,4 +1,5 @@
 # Aegis Ocean: Deep Learning-Based Maritime Surveillance System
+<img width="1024" height="1024" alt="1" src="https://github.com/user-attachments/assets/31026149-78c6-4202-9e42-57a2dd75fcbe" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
