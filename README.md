@@ -6,9 +6,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patowari/OceanGuard-AI/blob/main/Aegis_Ocean_Prototype.ipynb)
 
-**Principal Investigator:** Md Zubayer Patowari  
-**Institutional Affiliation:** Independent Researcher  
-**Contact:** mdzubayerhossainpatowari@gmail.com  
+**Project Lead:** Tashfia Tasnim
+**Lead Developer:** Md Zubayer Patowari
+**Institutional Affiliation:** Independent Researchers 
+**Contact:** tashfia.official@gmail.com; mdzubayerhossainpatowari@gmail.com  
 **Repository:** [github.com/patowari/OceanGuard-AI](https://github.com/patowari/OceanGuard-AI)
 
 ---
@@ -644,10 +645,10 @@ All systems operational. Ready for training.
 If you use Aegis Ocean in your research, please cite:
 
 ```bibtex
-@software{Patowari_Aegis_Ocean_2024,
-  author = {Patowari, Md Zubayer},
+@software{Tasnim_Patowari_Aegis_Ocean_2025,
+  author = {Tasnim, Tashfia and Patowari, Md Zubayer},
   title = {{Aegis Ocean: Deep Learning-Based Maritime Surveillance System}},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/patowari/OceanGuard-AI},
   version = {1.0.0}
@@ -746,7 +747,7 @@ This project is released under the **MIT License**, promoting open-source collab
 ```
 MIT License
 
-Copyright (c) 2024 Md Zubayer Patowari
+Copyright (c) 2025 Tashfia Tasnim & Md Zubayer Patowari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -778,11 +779,18 @@ Users of this system are expected to:
 
 ### 13.1 Primary Contact
 
+**Tashfia Tasnim**
+Project Lead . Independent Researcher
+📧 tashfia.official@gmail.com
+🔗 [LinkedIn Profile](https://linkedin.com/in/tashfia-tasnim)
+💻 [GitHub](https://github.com/Tashfia-Tasnim)  
+
+
 **Md Zubayer Patowari**  
-Independent Researcher  
+Lead Developer . Independent Researcher  
 📧 mdzubayerhossainpatowari@gmail.com  
 🔗 [LinkedIn Profile](https://linkedin.com/in/patowari)  
-💻 [GitHub Portfolio](https://github.com/patowari)  
+💻 [GitHub](https://github.com/patowari)  
 
 ### 13.2 Contributing
 
